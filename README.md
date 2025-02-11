@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Arina
+## Hi there 👋 I'm Arina Dubova
 I'm Junior data scientist. Graduated from Yandex Practicum.
 
 - 🌱 I’m currently learning data science.
